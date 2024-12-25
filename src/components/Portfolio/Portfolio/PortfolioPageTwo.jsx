@@ -40,8 +40,8 @@ const portfolioPageTwo=[
     title: 'Wanderlust ',
     description: 'Full-stack Airbnb clone built with MERN stack.',
     image: project3,
-    github: 'https://github.com/username/wanderlust-airbnb',
-    live: 'https://wanderlustclone.com'
+    github: 'https://github.com/17mital/Wanderlust',
+    live: 'https://sigma-project-bkyd.onrender.com/listings'
   }
 ];
 const PortfolioPageTwo = () => {

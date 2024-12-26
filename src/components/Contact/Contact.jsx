@@ -134,10 +134,10 @@ const Contact = () => {
               <div className="col-xxl-4 col-xl-4 col-lg-4 overflow-hidden">
                 <div className="get-touch-box-main">
                   <h2>Get In Touch</h2>
-                  <p className="well">
+{/*                   <p className="well">
                     When do they work well, and when do they on us and finally,
                     when do we actually need how can we avoid them.
-                  </p>
+                  </p> */}
                   {/* <div className="contact-footer contact-footer2">
                     <img src={PhoneSvg} alt="phone_svg" />
                     <Link to="tel:+1451356888">+1 451 356 888</Link>

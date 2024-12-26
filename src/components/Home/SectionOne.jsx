@@ -263,7 +263,7 @@ const SectionOne = () => {
                   alt="arrow-main"
                   ref={arrowRef}
                 />
-                <div  style={{marginLeft:"-120px"}} id="worked_box" ref={workedBoxRef}>
+                <div  style={{marginLeft:"-260px"}} id="worked_box" ref={workedBoxRef}>
                   <div className="worked-box" data-aos="fade-right">
                     <p style={{fontSize:"17px" ,color:"black" }} className="worked-more">Hello! I’m Mital 3rd year Computer Engineering Student . Aspiring Software Engineer and MERN Stack Web Developer Intrest in emerging new technologies .</p>
                     {/* <div className="client-img-main position-relative">

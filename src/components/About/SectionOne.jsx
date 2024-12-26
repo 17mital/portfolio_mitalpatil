@@ -39,8 +39,8 @@ const SectionOne = () => {
                     <svg
                       className="expo-arrow2"
                       xmlns="http://www.w3.org/2000/svg"
-                      width="32"
-                      height="32"
+                      width="20"
+                      height="20"
                       viewBox="0 0 32 32"
                       fill="none"
                     >
@@ -121,19 +121,19 @@ const SectionOne = () => {
               className="col-xxl-6 col-xl-6 col-lg-6 about-main-img-sec"
               id="main"
             >
-              <img className="about-flower-img" src={FlowerImg} alt="flower" />
+{/*               <img className="about-flower-img" src={FlowerImg} alt="flower" /> */}
               <img
                 className="about-img-main"
                 src={AboutImgMain}
                 alt="about-img-main"
                 data-aos="fade-left"
               />
-              <img
+{/*               <img
                 className="about-arrow-main"
                 id="arrow"
                 src={AboutArrowMain}
                 alt="about-arrow-main"
-              />
+              /> */}
             </div>
           </div>
         </div>

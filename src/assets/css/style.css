@@ -1006,8 +1006,10 @@ nav input {
 }
 
 .home-girl-img {
-    max-width:100%;
     align-items:center;
+     max-width:60%;
+    max-height: 100%;
+    margin-left: 100px;
 /*     margin:0px 100px 0px 150px; */
     justify-content: center;
 }

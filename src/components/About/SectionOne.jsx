@@ -12,13 +12,13 @@ const SectionOne = () => {
 
   return (
     <>
-      {/* <!-- ====================================== About Section One ===================================== --> */}
+      {/* <!-- ====================================== About Section One //<span>👋</span>===================================== --> */}
       <section className="section-main overflow-hidden">
         <div className="container">
           <div className="row">
             <div className="col-xxl-6 col-xl-6 col-lg-6">
               <p className="main-text about-hello" data-aos="fade-down">
-                Hello, I am <span>👋</span>
+                Hello, I am    
               </p>
               <h1 className="JessicaBiogi" data-aos="fade-down">
                 Mital Patil

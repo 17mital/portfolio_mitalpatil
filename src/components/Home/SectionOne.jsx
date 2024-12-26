@@ -250,21 +250,21 @@ const SectionOne = () => {
                     <p className="jessica-biogi">Mital Patil</p>
                   </div>
                 </div> */}
-                <img style={{height:"400px" , width:"700px"}}
+                <img 
                   className="home-girl-img"
                   src={GirlImg}
                   alt="girl"
                   data-aos="fade-up"
                 />
-                <img style={{marginRight:"-250px", height:"80px"}}
+{/*                 <img style={{marginRight:"-250px", height:"80px"}}
                   className="arrow-main"
                   id="arrow"
                   src={ArrowMain}
                   alt="arrow-main"
                   ref={arrowRef}
-                />
-                <div  style={{marginLeft:"-260px"}} id="worked_box" ref={workedBoxRef}>
-                  <div className="worked-box" data-aos="fade-right">
+                /> */}
+                <div style={{marginLeft:"360px" ,marginBottom:"0px"}}  id="worked_box" ref={workedBoxRef}>
+                  <div style={{marginBottom:"-40px"}} className="worked-box" data-aos="fade-right">
                     <p style={{fontSize:"17px" ,color:"black" }} className="worked-more">Hello! I’m Mital 3rd year Computer Engineering Student . Aspiring Software Engineer and MERN Stack Web Developer Intrest in emerging new technologies .</p>
                     {/* <div className="client-img-main position-relative">
                       <img

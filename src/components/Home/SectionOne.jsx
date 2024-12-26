@@ -3,7 +3,7 @@ import AOS from "aos";
 import MediaLineTop from "../../assets/images/media-line-top.svg";
 import MediaLineBottom from "../../assets/images/media-line-bottom.svg";
 import PolygonArrow from "../../assets/images/Polygon-arrow.svg";
-import GirlImg from "../../assets/images/img1.png";
+import GirlImg from "../../assets/images/mital.png";
 import ArrowMain from "../../assets/images/arrow-main.png";
 import ClientImg1 from "../../assets/images/clients-img1.jpg";
 import ClientImg2 from "../../assets/images/clients-img2.jpg";

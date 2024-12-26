@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import FlowerImg from "../../assets/images/flower.png";
-import AboutImgMain from "../../assets/images/mital.png";
+import AboutImgMain from "../../assets/images/img1.png";
 import AboutArrowMain from "../../assets/images/about-arrow-main.png";
 import Resume from "../../assets/pdf/mital_resume.pdf";
 import { Link } from "react-router-dom";

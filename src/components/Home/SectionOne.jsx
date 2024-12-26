@@ -250,7 +250,7 @@ const SectionOne = () => {
                     <p className="jessica-biogi">Mital Patil</p>
                   </div>
                 </div> */}
-                <img style={{height:"400px"}}
+                <img 
                   className="home-girl-img"
                   src={GirlImg}
                   alt="girl"

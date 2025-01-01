@@ -63,18 +63,14 @@ const SectionFour = () => {
           <div className="skill-type-main">
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+             
             >
               <img src={WordpressImg} alt="wordpress" />
                 <h4> Java</h4>
             </div>
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+            
             >
               <img src={ElementorImg} alt="elementor" />
                 <h4>
@@ -83,9 +79,7 @@ const SectionFour = () => {
             </div>
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+             
             >
               <img src={HtmlLogo} alt="html-logo" />
               <h4>
@@ -94,9 +88,7 @@ const SectionFour = () => {
             </div>
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+             
             >
               <img src={JsLogo} alt="js-logo" />
               <h4>
@@ -105,9 +97,7 @@ const SectionFour = () => {
             </div>
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+              
             >
               <img style={{width:"65px",height:"65px"}} src={FigmaImg} alt="figma" />
               <h4>
@@ -116,9 +106,7 @@ const SectionFour = () => {
             </div>
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+             
             >
               <img src={Diamond} alt="diamond" />
               <h4>
@@ -127,9 +115,7 @@ const SectionFour = () => {
             </div>
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+              
             >
               <img src={PhotoShop} alt="photoshop" />
               <h4>
@@ -138,9 +124,7 @@ const SectionFour = () => {
             </div>
             <div
               className="skills-box-main"
-              data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000"
+             
             >
               <img src={IllustratorImg} alt="illustrator" />
               <h4>

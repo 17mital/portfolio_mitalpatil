@@ -31,11 +31,11 @@ const Contact = () => {
           id="section-main-id"
         >
           <div className="container">
-            <p className="main-text my-services" data-aos="fade-down">
-              CONTACT ME
-            </p>
+{/*             <p className="main-text my-services" data-aos="fade-down">
+         
+            </p> */}
             <h1 className="ui-ux" data-aos="fade-down">
-              Let's make something awesome together!
+                  CONTACT ME
             </h1>
           </div>
         </section>

@@ -1006,11 +1006,10 @@ nav input {
 }
 
 .home-girl-img {
-    align-items:center;
-     max-width:60%;
+    max-width:60%;
     max-height: 100%;
     margin-left: 100px;
-/*     margin:0px 100px 0px 150px; */
+    align-items:center;
     justify-content: center;
 }
 
@@ -1729,7 +1728,7 @@ nav input {
 .skills-box-main {
     width: 300px;
     height: 390px;
-    border-radius: 150px;
+    border-radius: 10px;
     background: var(--5, #0000004f);
     display: flex;
     align-items: center;
@@ -1768,7 +1767,7 @@ nav input {
 }
 
 .skills-box-main:hover.skills-box-main h4 {
-    background: var(--13, linear-gradient(90deg, #b7f68a 0%, #78dade 100%));
+    background: var(--13, linear-gradient(0deg, #b7f68a 0%, #78dade 100%));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -2926,10 +2925,10 @@ footer {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     background: #171B22;
-    border-radius: 20px;
+    border-radius: 0px;
 }
 
-.flip-box-front {
+/* .flip-box-front {
     -ms-transform: rotateY(0deg);
     -webkit-transform: rotateY(0deg);
     transform: rotateY(0deg);
@@ -2981,7 +2980,7 @@ footer {
     -webkit-transform: translateY(-50%) translateZ(60px) scale(.94);
     -ms-transform: translateY(-50%) translateZ(60px) scale(.94);
     top: 52%;
-}
+} */
 
 /*-----------------------[ 20.Services page CSS ]------------------------*/
 .explore-services span {

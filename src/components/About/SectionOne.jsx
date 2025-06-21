@@ -3,7 +3,7 @@ import AOS from "aos";
 import FlowerImg from "../../assets/images/flower.png";
 import AboutImgMain from "../../assets/images/img1.png";
 import AboutArrowMain from "../../assets/images/about-arrow-main.png";
-import Resume from "../../assets/Mital_Patil_Resumeall.pdf";
+import Resume from "../../assets/pdf/Mital_Patil_Resumeall.pdf";
 import { Link } from "react-router-dom";
 const SectionOne = () => {
   useEffect(() => {

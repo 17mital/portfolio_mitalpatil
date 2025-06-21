@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 // import BiogiLogo from "../assets/images/logomital.png";
 import { Link, NavLink, useLocation } from "react-router-dom";
-import Resume from "../assets/pdf/Mital_Patil_Resumeall.pdf";
+import Resume from "../assets/pdf/mital_resume.pdf";
 
 const Header = () => {
   const location = useLocation();

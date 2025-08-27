@@ -7,16 +7,16 @@ import SectionTwo from "../../Home/SectionTwo";
 import project1 from "../../../assets/images/project1.jpg";
 import project2 from "../../../assets/images/project2.jpg";
 import project3 from "../../../assets/images/project3.jpeg";
-import project4 from "../../../assets/images/project4.jpg";
-import project5 from "../../../assets/images/project5.jpg";
-import project6 from "../../../assets/images/project6.jpg";
-import project7 from "../../../assets/images/project7.jpg";
-import project8 from "../../../assets/images/project8.jpg";
-import project9 from "../../../assets/images/project9.jpg";
-import project10 from "../../../assets/images/project10.jpg";
-import project11 from "../../../assets/images/project11.jpg";
-import project12 from "../../../assets/images/project12.jpg";
-import project13 from "../../../assets/images/project13.jpg";
+import project4 from "../../../assets/images/project4.png";
+import project5 from "../../../assets/images/project5.png";
+import project6 from "../../../assets/images/project6.png";
+import project7 from "../../../assets/images/project7.png";
+import project8 from "../../../assets/images/project8.png";
+import project9 from "../../../assets/images/project9.png";
+import project10 from "../../../assets/images/project10.png";
+import project11 from "../../../assets/images/project11.png;
+import project12 from "../../../assets/images/project12.png";
+
 
 import Footer from "../../../common/Footer";
 import ProgressCircle from "../../../common/ProgressCircle";

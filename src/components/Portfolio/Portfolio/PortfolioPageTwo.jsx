@@ -18,7 +18,16 @@ import project11 from "../../../assets/images/project11.png;
 import project12 from "../../../assets/images/project12.png";
 
 
-import Footer from "../../../common/Footer";
+import SingleServicesImg3 from "../../../assets/images/single-services-project-img3.jpg";
+import SinglePortfolioImg1 from "../../../assets/images/single-portfolio-over-img1.jpg";
+import SinglePortfolioImg2 from "../../../assets/images/single-portfolio-over-img2.jpg"; 
+import SeoImplement from "../../../assets/images/seo-implemnts.jpg";
+import EffectiveImg from "../../../assets/images/effective-img.jpg"; 
+import DigitalMarketingImg from "../../../assets/images/digital-marketing-img.jpg"; 
+import NewsImg2 from "../../../assets/images/news-img2.jpg"; 
+import BrandsMarqueSection from "../../../common/BrandsMarqueSection"; 
+import TextMarqueAboutSection from "../../About/TextMarqueAboutSection"; 
+import Footer from "../../../common/Footer"; 
 import ProgressCircle from "../../../common/ProgressCircle";
 
 const portfolioPageTwo = [

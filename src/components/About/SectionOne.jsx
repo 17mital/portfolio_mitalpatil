@@ -25,7 +25,7 @@ const SectionOne = () => {
               </h1>
               <p className="Freelance about-freelance" data-aos="fade-down">
                 A <span> Tech Enthusiast </span> and Full stack Developer{" "}
-                <span>3rd Year Student at NMIMS Shirpur</span>.  I specialize in creating dynamic and scalable web applications, combining technical expertise with an eye for user-centric design.
+                <span>Final Year Student at NMIMS Shirpur</span>.  I specialize in creating dynamic and scalable web applications, combining technical expertise with an eye for user-centric design.
               </p>
               <div className="about-main-buttons">
                 <Link

@@ -265,7 +265,7 @@ const SectionOne = () => {
                 /> */}
                 <div style={{marginLeft:"360px" ,marginBottom:"0px"}}  id="worked_box" ref={workedBoxRef}>
                   <div style={{marginBottom:"-40px"}} className="worked-box" data-aos="fade-right">
-                    <p style={{fontSize:"17px" ,color:"black" }} className="worked-more">Final-year B.Tech Computer Engineering student at NMIMS University, aspiring Software Engineer with expertise in Full Stack Development (MERN) and Machine Learning. Skilled in building scalable web applications, AI-powered solutions, and AR/VR innovations. Passionate about leveraging emerging technologies to create impactful, real-world applications.</p>
+                    <p style={{fontSize:"17px" ,color:"black" }} className="worked-more">Final-year B.Tech Computer Engineering student at NMIMS, aspiring Software Engineer. Skilled in Full Stack Development (MERN), Machine Learning, and AR/VR innovations. Passionate about creating impactful, real-world tech solutions using emerging technologies.</p>
                     {/* <div className="client-img-main position-relative">
                       <img
                         className="client-img client-img1"

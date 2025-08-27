@@ -229,10 +229,10 @@ const SectionOne = () => {
           </div>
           <div className="container2 position-relative overflow-hidden">
             <p className="main-text" data-aos="fade-down">
-             I am MERN Stack Devloper &
+             I am Full Stack Devloper &
             </p>
             <h1>
-              <mark>Tech </mark> Enthusiast.
+              <mark>AI & ML </mark> Enthusiast.
             </h1>
             <div className="home-girl-img-main">
               <div className="position-relative" ref={layerRef}>
@@ -265,7 +265,7 @@ const SectionOne = () => {
                 /> */}
                 <div style={{marginLeft:"360px" ,marginBottom:"0px"}}  id="worked_box" ref={workedBoxRef}>
                   <div style={{marginBottom:"-40px"}} className="worked-box" data-aos="fade-right">
-                    <p style={{fontSize:"17px" ,color:"black" }} className="worked-more">Hello! I’m Mital 3rd year Computer Engineering Student . Aspiring Software Engineer and MERN Stack Web Developer Intrest in emerging new technologies .</p>
+                    <p style={{fontSize:"17px" ,color:"black" }} className="worked-more">Final-year B.Tech Computer Engineering student at NMIMS University, aspiring Software Engineer with expertise in Full Stack Development (MERN) and Machine Learning. Skilled in building scalable web applications, AI-powered solutions, and AR/VR innovations. Passionate about leveraging emerging technologies to create impactful, real-world applications.</p>
                     {/* <div className="client-img-main position-relative">
                       <img
                         className="client-img client-img1"

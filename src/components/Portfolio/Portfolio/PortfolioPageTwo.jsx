@@ -14,7 +14,7 @@ import project7 from "../../../assets/images/project7.png";
 import project8 from "../../../assets/images/project8.png";
 import project9 from "../../../assets/images/project9.png";
 import project10 from "../../../assets/images/project10.png";
-import project11 from "../../../assets/images/project11.png;
+import project11 from "../../../assets/images/project11.png";
 import project12 from "../../../assets/images/project12.png";
 
 
